@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sonnymalick/Desktop/softdev/UB/CSE116/words/src/main/scala/YourWordAdapter.scala:11:18: value := is not a member of List[String][0m
+[0m[[0m[31merror[0m] [0m[0m  Expression does not convert to assignment because:[0m
+[0m[[0m[31merror[0m] [0m[0m    value : is not a member of List[String][0m
+[0m[[0m[31merror[0m] [0m[0m    expansion: l = l.<$colon: error>(arr(x))[0m
+[0m[[0m[31merror[0m] [0m[0m                l:=arr(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

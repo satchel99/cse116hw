@@ -1,0 +1,13 @@
+compile
+run
+compile
+run
+compile
+run
+mainClass := Main.scala
+mainClass := Some("Main.scala")
+mainClass in (Compile, run) := Some(Main)
+compile
+run
+compile
+run
